@@ -1,0 +1,10 @@
+# TeleTool proxy list
+# One proxy per line.
+#
+# Supported formats:
+# socks5://127.0.0.1:9050
+# socks5://user:password@127.0.0.1:9050
+# http://127.0.0.1:8080
+# 127.0.0.1:9050
+# 127.0.0.1:9050:user:password
+# socks5:127.0.0.1:9050:user:password

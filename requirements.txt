@@ -4,3 +4,4 @@ pystyle==2.9
 colorama==0.4.6
 opentele @ git+https://github.com/thedemons/opentele.git@1a6f0816eac47ff3cb907af72ed9f8cbbbe8fba0
 qrcode==7.4.2
+PySocks==1.7.1

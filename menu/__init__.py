@@ -6,3 +6,4 @@ from .session_account_info import session_account_info_menu
 from .session_to_tdata import session_to_tdata_menu
 from .tdata_to_session import tdata_to_session_menu
 from .cleaner_and_info import cleaner_menu
+from .proxy_manager import proxy_manager_menu

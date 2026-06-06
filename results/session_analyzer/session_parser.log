@@ -326,3 +326,17 @@ telethon.errors.rpcerrorlist.SessionPasswordNeededError: Two-steps verification 
 2025-01-31 02:04:22,073 - INFO - Удалено 30 channel(ов)
 2025-01-31 02:04:22,073 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
 2025-01-31 02:04:22,073 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-06-06 15:36:35,761 - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-06-06 15:36:35,761 - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-06-06 15:41:32,587 - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-06-06 15:41:32,587 - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-06-06 15:41:48,777 - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-06-06 15:41:48,777 - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-06-06 15:43:04,508 - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-06-06 15:43:04,508 - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-06-06 15:43:42,452 - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-06-06 15:43:42,452 - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-06-06 15:46:15,218 - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-06-06 15:46:15,218 - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-06-06 15:46:59,639 - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-06-06 15:46:59,640 - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
