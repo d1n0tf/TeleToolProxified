@@ -1,6 +1,6 @@
 # 🖤 Tele Tool! Proxified!
 
-![Header](https://i.ibb.co/W408CSt1/image.png)
+![Header](https://github.com/user-attachments/assets/c2781aa7-13e4-4b36-8242-c8da0918eb06)
 
 > Этот репозиторий является **форком** оригинального TeleTool с расширенной поддержкой прокси:
 > `Proxy Manager`, режимы ротации прокси, сбалансированное распределение учетных записей между прокси и сохраненные планы JSON в `results/proxy_plans/`.
@@ -319,7 +319,7 @@ run.bat
 3. Введите валидные API данные
 4. Следуйте инструкциям на экране
 
-![Пример работы](https://i.ibb.co/W408CSt1/image.png)
+![Пример работы](https://github.com/user-attachments/assets/c2781aa7-13e4-4b36-8242-c8da0918eb06)
 
 ### ⚠️ Важно!
 - Используйте только свои API ключи
